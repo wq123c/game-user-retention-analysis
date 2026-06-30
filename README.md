@@ -57,15 +57,15 @@ game-user-retention-analysis
 ## 2、新增用户趋势
 ![New Users Trend](images/new_users_trend.png)
 ## 3、用户留存率
-![Retention Rate](images/retention_rate.png)
+![Retention Rate](images/retention_rate_trend.png)
 ## 4、每日收入趋势
-![Revenue Trend](images/daily_revenue.png)
+![Revenue Trend](images/daily_revenue_trend.png)
 ## 5、每日付费率
-![Payment Rate](images/payment_rate.png)
+![Payment Rate](images/payment_rate_trend.png)
 ## 6、ARPU
-![ARPU](images/arpu.png) 
+![ARPU](images/arpu_trend.png) 
 ## 7、ARPPU
-![ARPPU](images/arppu.png)
+![ARPPU](images/arppu_trend.png)
 ## 项目亮点
 - 使用 Python 模拟生成游戏用户行为数据
 - 使用 MySQL 完成数据清洗与业务分析
